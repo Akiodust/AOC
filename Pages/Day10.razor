@@ -1,0 +1,23 @@
+﻿@page "/Day10"
+
+<PageTitle>Day 10</PageTitle>
+
+<h3>Day 10</h3>
+
+
+<div class="row align-items-start">
+    <div class="col">
+        <RadzenButton Text="Solve" class="btn-custom" ButtonStyle="ButtonStyle.Primary" Size="Radzen.ButtonSize.Small" Variant="Radzen.Variant.Filled" Click="@Solve"></RadzenButton>
+    </div>
+    <div class="col">
+        <p role="status">Current text: <br /> </p>
+    </div>
+</div>
+<div class="row align-items-start">
+    <div class="col">
+        <RadzenTextArea Style="width: 394px; height: 292px" @bind-Value=@Input></RadzenTextArea>
+    </div>
+    <div class="col">
+        <RadzenTextArea Disabled="true" Style="width: 500px; height: 292px" @bind-Value=@Output2></RadzenTextArea>
+    </div>
+</div>
