@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AOG_blazer.props" />
+</Project>

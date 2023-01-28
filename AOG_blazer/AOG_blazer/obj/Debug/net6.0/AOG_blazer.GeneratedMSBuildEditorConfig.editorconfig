@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = AOG_blazer
+build_property.RootNamespace = AOG_blazer
+build_property.ProjectDir = C:\Users\Kucis\Desktop\Nová složka (2)\AOG_blazer\AOG_blazer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Kucis\Desktop\Nová složka (2)\AOG_blazer\AOG_blazer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/day 5/Day_5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcZGF5IDVcRGF5XzUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5MS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day10.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5MTAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5Mi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5My5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5NC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5NS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5Ni5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5Ny5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Day8.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF5OC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ytigb6fge5
+
+[C:/Users/Kucis/Desktop/Nová složka (2)/AOG_blazer/AOG_blazer/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-x6v8x2ounw

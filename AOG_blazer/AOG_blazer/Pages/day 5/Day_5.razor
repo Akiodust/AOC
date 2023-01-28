@@ -1,0 +1,17 @@
+﻿@page "/day_5"
+
+<head>
+
+</head>
+<h3>Day 5 answer: @answer</h3>
+
+@*<button class="btn btn-primary" @onclick="Solve1">Solve 1</button>*@
+<button class="btn btn-primary" @onclick="Solve2">Solve 2</button>
+<br />
+<div class="col-md-4 p-3">
+    <RadzenCard>
+        <RadzenText TextStyle="TextStyle.Subtitle2" TagName="TagName.H3">Specify upload parameter name</RadzenText>
+        <RadzenUpload Url="upload/specific" Progress=@(args => Uploaded(args, "Manual Upload")) class="w-100" />
+    </RadzenCard>
+</div>
+<textarea placeholder="Add configuration" @bind="Configur" cols="25" rows="10" />
