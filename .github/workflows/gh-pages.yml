@@ -18,7 +18,7 @@ jobs:
           uses: JamesIves/github-pages-deploy-action@releases/v3
           with:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            BASE_BRANCH: master
+            BASE_BRANCH: main
             BRANCH: gh-pages
             FOLDER: build/wwwroot
             CLEAN: true
